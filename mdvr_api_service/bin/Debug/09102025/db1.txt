@@ -1,0 +1,6 @@
+09-10-2025 16:45:27
+Violation of UNIQUE KEY constraint 'UQ_telemetry_telemetry_oct25'. Cannot insert duplicate key in object 'dbo.tbl_telemetry_oct25'. The duplicate key value is (Oct  9 2025 11:15AM, 81237).
+The statement has been terminated..Net SqlClient Data ProviderINSERT INTO tbl_telemetry_Oct25 (sys_service_id, sys_proc_time, gps_validity, gps_time,  gps_latitude, gps_longitude, gps_orientation, gps_speed, tel_odometer) VALUES ('81237', '2025-10-09 16:45:26.0', 'A', '2025-10-09 11:15:26',  '28.559360', '77.466723', '37', '0', '3817.9')
+09-10-2025 16:45:28
+Violation of UNIQUE KEY constraint 'UQ_telemetry_telemetry_oct25'. Cannot insert duplicate key in object 'dbo.tbl_telemetry_oct25'. The duplicate key value is (Oct  9 2025 11:15AM, 81237).
+The statement has been terminated..Net SqlClient Data ProviderINSERT INTO tbl_telemetry_Oct25 (sys_service_id, sys_proc_time, gps_validity, gps_time,  gps_latitude, gps_longitude, gps_orientation, gps_speed, tel_odometer) VALUES ('81237', '2025-10-09 16:45:25.0', 'A', '2025-10-09 11:15:25',  '28.559360', '77.466723', '37', '0', '3817.9')

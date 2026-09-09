@@ -1,0 +1,14 @@
+12-09-2025 16:22:11
+Violation of UNIQUE KEY constraint 'UQ_telemetry_telemetry_sep25'. Cannot insert duplicate key in object 'dbo.tbl_telemetry_sep25'. The duplicate key value is (Dec  9 2025  7:52AM, 81236).
+The statement has been terminated..Net SqlClient Data Providerinsert into tbl_telemetry_Sep25 (sys_service_id,sys_proc_time,gps_validity,gps_time,gps_latitude,gps_longitude,gps_orientation,gps_speed,tel_fuel)values ('81236','2025-09-12 13:22:01','A','12-09-2025 07:52:01','28633633','77223225','0','0','0')
+12-09-2025 16:22:11
+Violation of UNIQUE KEY constraint 'UQ_telemetry_telemetry_sep25'. Cannot insert duplicate key in object 'dbo.tbl_telemetry_sep25'. The duplicate key value is (Dec  9 2025  7:52AM, 81237).
+The statement has been terminated..Net SqlClient Data Providerinsert into tbl_telemetry_Sep25 (sys_service_id,sys_proc_time,gps_validity,gps_time,gps_latitude,gps_longitude,gps_orientation,gps_speed,tel_fuel)values ('81237','2025-09-12 13:22:01','A','12-09-2025 07:52:01','28633633','77223225','0','0','0')
+12-09-2025 16:22:11
+Violation of UNIQUE KEY constraint 'UQ_telemetry_telemetry_sep25'. Cannot insert duplicate key in object 'dbo.tbl_telemetry_sep25'. The duplicate key value is (Dec  9 2025  7:52AM, 81166).
+The statement has been terminated..Net SqlClient Data Providerinsert into tbl_telemetry_Sep25 (sys_service_id,sys_proc_time,gps_validity,gps_time,gps_latitude,gps_longitude,gps_orientation,gps_speed,tel_fuel)values ('81166','2025-09-12 13:22:01','A','12-09-2025 07:52:01','28633633','77223225','0','0','0')
+12-09-2025 16:44:41
+ExecuteNonQuery: CommandText property has not been initializedSystem.Data
+12-09-2025 16:44:41
+Violation of UNIQUE KEY constraint 'UQ_telemetry_telemetry_sep25'. Cannot insert duplicate key in object 'dbo.tbl_telemetry_sep25'. The duplicate key value is (Dec  9 2025  8:08AM, 81236).
+The statement has been terminated..Net SqlClient Data Providerinsert into tbl_telemetry_Sep25 (sys_service_id,sys_proc_time,gps_validity,gps_time,gps_latitude,gps_longitude,gps_orientation,gps_speed,tel_fuel)values ('81236','2025-09-12 13:38:31','A','12-09-2025 08:08:31','28633633','77223225','0','0','0')

@@ -1,0 +1,23 @@
+E:\Services\New folder\DeviceOffNotification\DeviceOffNotification\bin\Debug\DeviceOffNotification.exe.config
+E:\Services\New folder\DeviceOffNotification\DeviceOffNotification\bin\Debug\DeviceOffNotification.exe
+E:\Services\New folder\DeviceOffNotification\DeviceOffNotification\bin\Debug\DeviceOffNotification.pdb
+E:\Services\New folder\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.csproj.CoreCompileInputs.cache
+E:\Services\New folder\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.exe
+E:\Services\New folder\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.pdb
+E:\Services\New folder\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practice_Folder\services\DeviceOffNotification\DeviceOffNotification\bin\Debug\DeviceOffNotification.exe.config
+C:\Users\user\Desktop\Practice_Folder\services\DeviceOffNotification\DeviceOffNotification\bin\Debug\DeviceOffNotification.exe
+C:\Users\user\Desktop\Practice_Folder\services\DeviceOffNotification\DeviceOffNotification\bin\Debug\DeviceOffNotification.pdb
+C:\Users\user\Desktop\Practice_Folder\services\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practice_Folder\services\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Practice_Folder\services\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practice_Folder\services\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.exe
+C:\Users\user\Desktop\Practice_Folder\services\DeviceOffNotification\DeviceOffNotification\obj\Debug\DeviceOffNotification.pdb
+C:\Users\user\Desktop\Practice_Folder\services\Anaaj_service\Sevice\DeviceOffNotification\obj\Debug\DeviceOffNotification.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practice_Folder\services\Anaaj_service\Sevice\DeviceOffNotification\obj\Debug\DeviceOffNotification.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Practice_Folder\services\Anaaj_service\Sevice\DeviceOffNotification\obj\Debug\DeviceOffNotification.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practice_Folder\services\Anaaj_service\Sevice\DeviceOffNotification\bin\Debug\DeviceOffNotification.exe.config
+C:\Users\user\Desktop\Practice_Folder\services\Anaaj_service\Sevice\DeviceOffNotification\bin\Debug\DeviceOffNotification.exe
+C:\Users\user\Desktop\Practice_Folder\services\Anaaj_service\Sevice\DeviceOffNotification\bin\Debug\DeviceOffNotification.pdb
+C:\Users\user\Desktop\Practice_Folder\services\Anaaj_service\Sevice\DeviceOffNotification\obj\Debug\DeviceOffNotification.exe
+C:\Users\user\Desktop\Practice_Folder\services\Anaaj_service\Sevice\DeviceOffNotification\obj\Debug\DeviceOffNotification.pdb

@@ -1,0 +1,102 @@
+8/3/2024 2:30:47 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37607, Jul 22 2024  1:35PM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:30:47 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37656, Aug  3 2024  8:58AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:30:47 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37650, Aug  3 2024  8:04AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:30:47 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37652, Aug  3 2024  8:12AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:30:47 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37651, Aug  1 2024 11:35AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:30:47 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37654, Aug  2 2024 11:04AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:30:47 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37653, Aug  1 2024  4:23AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:30:48 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37658, Aug  3 2024  8:58AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:30:48 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37659, Aug  3 2024  1:52AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37653, Aug  1 2024  4:23AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37651, Aug  1 2024 11:35AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37607, Jul 22 2024  1:35PM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37650, Aug  3 2024  8:04AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37652, Aug  3 2024  8:12AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37657, Aug  3 2024  8:58AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37654, Aug  2 2024 11:04AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37658, Aug  3 2024  8:58AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37659, Aug  3 2024  1:52AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:28 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37650, Aug  3 2024  8:04AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:28 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37652, Aug  3 2024  8:12AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:29 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37653, Aug  1 2024  4:23AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:29 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37656, Aug  3 2024  9:00AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:29 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37657, Aug  3 2024  8:58AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:29 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37651, Aug  1 2024 11:35AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:29 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37607, Jul 22 2024  1:35PM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:29 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37659, Aug  3 2024  1:52AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 2:31:29 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37654, Aug  2 2024 11:04AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 3:13:54 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37607, Jul 22 2024  1:35PM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 3:50:08 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37651, Aug  1 2024 11:35AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 3:50:13 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37652, Aug  3 2024  8:12AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 3:50:17 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37653, Aug  1 2024  4:23AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 4:08:40 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37651, Aug  1 2024 11:35AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 4:08:45 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37652, Aug  3 2024  8:12AM).
+The statement has been terminated..Net SqlClient Data Provider
+8/3/2024 4:08:50 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_aug24' with unique index 'NonClusteredIndex-2024_08'. The duplicate key value is (37653, Aug  1 2024  4:23AM).
+The statement has been terminated..Net SqlClient Data Provider

@@ -1,0 +1,4 @@
+12-09-2025 16:39:50
+A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired.Net SqlClient Data Provider
+12-09-2025 17:02:07
+A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The network connection was aborted by the local system.)System.ComponentModel.Win32Exception (0x80004005): The network connection was aborted by the local system.Net SqlClient Data Provider

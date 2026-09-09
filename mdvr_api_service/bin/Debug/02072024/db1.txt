@@ -1,0 +1,3 @@
+7/2/2024 5:24:45 PM
+Cannot insert duplicate key row in object 'dbo.tbl_telemetry_jul24' with unique index 'NonClusteredIndex-20220430-103444-2024'. The duplicate key value is (37606, Jul  2 2024 11:48AM).
+The statement has been terminated..Net SqlClient Data Provider

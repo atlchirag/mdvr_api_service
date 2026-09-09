@@ -1,0 +1,2 @@
+7/1/2024 5:46:50 PM
+Incorrect syntax near 'tbl_devices'..Net SqlClient Data Provider

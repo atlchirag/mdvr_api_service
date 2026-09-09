@@ -1,0 +1,83 @@
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\mdvr_api_service.exe.config
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\mdvr_api_service.exe
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\mdvr_api_service.pdb
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\Newtonsoft.Json.dll
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.dll
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.dll
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\Newtonsoft.Json.xml
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.xml
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.AssemblyReference.cache
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.SuggestedBindingRedirects.cache
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.CoreCompileInputs.cache
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.CopyComplete
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\obj\Debug\mdvr_api_service.exe
+D:\Anaaj_service_with_automatictripend\AnaajAlertService\mdvr_api_service\obj\Debug\mdvr_api_service.pdb
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.exe.config
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.exe
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.pdb
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\Newtonsoft.Json.dll
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.dll
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.dll
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\Newtonsoft.Json.xml
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.xml
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.xml
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.AssemblyReference.cache
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.SuggestedBindingRedirects.cache
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.CoreCompileInputs.cache
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.CopyComplete
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.exe
+D:\SVN_Commit\Server_Code_Current\services\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.pdb
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.exe.config
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.exe
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.pdb
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\Newtonsoft.Json.dll
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.dll
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.dll
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.dll
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\Newtonsoft.Json.xml
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.xml
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.AssemblyReference.cache
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.CoreCompileInputs.cache
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api.FE1984A5.Up2Date
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.exe
+E:\Gaurav Sharma\GauravSVN\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.pdb
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.exe.config
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.exe
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.pdb
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api.FE1984A5.Up2Date
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.exe
+C:\Users\Admin\Downloads\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.pdb
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.exe.config
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.exe
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\mdvr_api_service.pdb
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.dll
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.dll
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.Diagnostics.EventLog.xml
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.Security.Principal.Windows.xml
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.AssemblyReference.cache
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.exe.config
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.csproj.CoreCompileInputs.cache
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api.FE1984A5.Up2Date
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.exe
+D:\New folder\mdvr_api_service\mdvr_api_service\mdvr_api_service\mdvr_api_service\obj\Debug\mdvr_api_service.pdb

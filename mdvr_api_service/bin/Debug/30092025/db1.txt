@@ -1,0 +1,2 @@
+30-09-2025 14:25:25
+ExecuteNonQuery: CommandText property has not been initializedSystem.Data

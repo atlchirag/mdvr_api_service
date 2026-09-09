@@ -1,0 +1,2 @@
+16-09-2025 15:45:54
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out.Net SqlClient Data Provider

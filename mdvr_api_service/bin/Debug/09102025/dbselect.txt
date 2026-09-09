@@ -1,0 +1,6 @@
+09-10-2025 18:23:10
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out.Net SqlClient Data Provider
+09-10-2025 18:26:29
+Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=36119; handshake=0; System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out.Net SqlClient Data Provider
+09-10-2025 18:37:50
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.System.Data

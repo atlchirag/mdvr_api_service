@@ -1,0 +1,3780 @@
+10-10-2025 13:17:25
+PB try#1 TIMEOUT after 45s
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:27:53
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:12
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:13
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:33
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:34
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:54
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:54
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:54
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:28:55
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:15
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:15
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:15
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:16
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:37
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:38
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:57
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:57
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:58
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:58
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:58
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:58
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:29:59
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:19
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:39
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:30:40
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:00
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:01
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:02
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:22
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:23
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:31:43
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:04
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:05
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:05
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:25
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:32:46
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:07
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:28
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:29
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:29
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:29
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:29
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:29
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:29
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:49
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:33:50
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:09
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:10
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:10
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:10
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:10
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:10
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:10
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:10
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:10
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:30
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:34:51
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:11
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:12
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:32
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:52
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:53
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:53
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:53
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:35:53
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:13
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:35
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:36:54
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:15
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:35
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:55
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:55
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:55
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:55
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:55
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:37:56
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:17
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:37
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:38
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:58
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:38:59
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:20
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:21
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:41
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:41
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:41
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:41
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:39:42
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:01
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:02
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:22
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:23
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:40:43
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:03
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:04
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:24
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=118270411013. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=864356068006528. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=319000020166. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=18270168590. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=866777072800127. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=18270168391. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=018270411690. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=866777072876051. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=866777072875962. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=866777076462429. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:45
+No status in API response for device=866777076462148. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:46
+No status in API response for device=866777072876002. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:46
+No status in API response for device=864688050495859. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:46
+No status in API response for device=864688050498432. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:46
+getDeviceStatus non-zero result (try#1): {"result":19,"message":"Device does not exist!"}
+
+10-10-2025 13:41:46
+No status in API response for device=864688050495891. Payload={"result":19,"message":"Device does not exist!"}
+
+10-10-2025 15:04:10
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:04:10
+10-10-2025 15:04:10
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:04:10
+10-10-2025 15:04:28
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:04:28
+10-10-2025 15:04:28
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:04:28
+10-10-2025 15:04:48
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:04:48
+10-10-2025 15:04:48
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:04:48
+10-10-2025 15:05:08
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:05:08
+10-10-2025 15:05:09
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:05:09
+10-10-2025 15:05:29
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:05:29
+10-10-2025 15:05:29
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:05:29
+10-10-2025 15:05:49
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:05:49
+10-10-2025 15:05:49
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:05:49
+10-10-2025 15:06:10
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:06:10
+10-10-2025 15:06:11
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:06:11
+10-10-2025 15:06:30
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:06:30
+10-10-2025 15:06:30
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:06:30
+10-10-2025 15:06:51
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:06:51
+10-10-2025 15:06:51
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:06:51
+10-10-2025 15:07:11
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:07:11
+10-10-2025 15:07:11
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:07:11
+10-10-2025 15:07:32
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:07:32
+10-10-2025 15:07:32
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:07:32
+10-10-2025 15:07:53
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:07:53
+10-10-2025 15:07:53
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:07:53
+10-10-2025 15:08:13
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:08:13
+10-10-2025 15:08:14
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:08:13
+10-10-2025 15:08:34
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:08:34
+10-10-2025 15:08:34
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:08:34
+10-10-2025 15:08:55
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:08:55
+10-10-2025 15:08:55
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:08:55
+10-10-2025 15:09:16
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:09:16
+10-10-2025 15:09:16
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:09:16
+10-10-2025 15:09:36
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:09:36
+10-10-2025 15:09:36
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 14:55:33, now=2025-10-10 15:09:36
+10-10-2025 15:09:56
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:09:56
+10-10-2025 15:10:17
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:10:17
+10-10-2025 15:10:37
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:10:37
+10-10-2025 15:10:58
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:10:58
+10-10-2025 15:11:18
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:11:18
+10-10-2025 15:11:40
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:11:40
+10-10-2025 15:12:00
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:12:00
+10-10-2025 15:12:21
+Pending backfill but device offline. Dev=049055514968, last=2025-10-10 14:55:33, now=2025-10-10 15:12:21
+10-10-2025 15:15:21
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 15:12:21, now=2025-10-10 15:15:21
+10-10-2025 15:15:40
+Pending backfill but device offline. Dev=018270168601, last=2025-10-10 15:12:21, now=2025-10-10 15:15:40

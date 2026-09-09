@@ -1,0 +1,363 @@
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:14:08 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:45:26 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:20:28 PM
+An error occurred while sending the request.
+8/3/2024 2:20:28 PM
+An error occurred while sending the request.
+8/3/2024 2:20:28 PM
+An error occurred while sending the request.
+8/3/2024 2:20:28 PM
+An error occurred while sending the request.
+8/3/2024 2:20:29 PM
+An error occurred while sending the request.
+8/3/2024 2:20:29 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:51:47 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:20:29 PM
+An error occurred while sending the request.
+8/3/2024 2:20:29 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:51:47 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:20:29 PM
+An error occurred while sending the request.
+8/3/2024 2:20:29 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:51:47 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:20:29 PM
+An error occurred while sending the request.
+8/3/2024 2:20:29 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:51:47 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:20:29 PM
+An error occurred while sending the request.
+8/3/2024 2:20:29 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:51:47 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:20:29 PM
+An error occurred while sending the request.
+8/3/2024 2:20:29 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:51:47 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:20:29 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:51:47 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:28:19 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:59:37 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:28:19 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:59:37 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:28:19 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:59:37 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:28:19 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:59:37 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:28:19 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:59:37 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:28:19 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 08:59:37 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:29:34 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 09:00:52 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 2:29:34 PM
+StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: close
+  Date: Sat, 03 Aug 2024 09:00:52 GMT
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 271
+  Content-Type: text/html
+}
+8/3/2024 3:26:13 PM
+StatusCode: 502, ReasonPhrase: 'Bad Gateway', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  Date: Sat, 03 Aug 2024 09:57:31 GMT
+  ETag: "65d194e6-1f1"
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 497
+  Content-Type: text/html
+}
+8/3/2024 3:27:06 PM
+StatusCode: 502, ReasonPhrase: 'Bad Gateway', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  Date: Sat, 03 Aug 2024 09:58:24 GMT
+  ETag: "65d194e6-1f1"
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 497
+  Content-Type: text/html
+}
+8/3/2024 3:27:10 PM
+StatusCode: 502, ReasonPhrase: 'Bad Gateway', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  Date: Sat, 03 Aug 2024 09:58:28 GMT
+  ETag: "65d194e6-1f1"
+  Server: nginx/1.23.3.3
+  Server: SnapDragonfly
+  Content-Length: 497
+  Content-Type: text/html
+}
