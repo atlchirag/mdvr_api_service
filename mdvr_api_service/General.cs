@@ -15,12 +15,8 @@ namespace mdvr_api_service
 {
     class General
     {
-        //public static readonly string connectionString = "Data Source=DESKTOP-PN7P82O ;Initial Catalog=atltracking;Trusted_Connection=True";
-        //public static readonly string connectionString = "Data Source=192.168.23.131,15433;Initial Catalog=atltracking;User ID=newtrack;Password=55hD&44m7E3jnd; Max Pool Size=32767;";
-        public static readonly string connectionString = "Data Source=103.108.12.184,15433;Initial Catalog=atltracking;User ID=newtrack;Password=55hD&44m7E3jnd; Max Pool Size=32767;";
-          
-        //public static readonly string connectionString = "Data Source=45.113.189.23;Initial Catalog=atltracking;User ID=newtrack;Password=55hD&44m7E3jnd; Max Pool Size=32767;";
-        //public static readonly string connectionString = "Data Source=192.168.23.131,15433;Initial Catalog=atltracking;User ID=newtrack;Password=55hD&44m7E3jnd; Max Pool Size=32767;";
+          public static readonly string connectionString = "Data Source={public_ip};Initial Catalog={catalog};User ID={id};Password={password}; Max Pool Size=32767;";
+        
         public Dictionary<string,string> getDevices()
         {
             Dictionary<string,string> keyValuePairs= new Dictionary<string,string>();
