@@ -24,8 +24,8 @@ namespace mdvr_api_service
             DataTable dt = new DataTable();
             //string query = $"select imei,sys_user_id from tbl_devices where id in (select sys_device_id from tbl_services where is_mdvr = 1)";
 
-            //string query = $"select tbl_devices.imei,tbl_devices.sys_user_id from tbl_devices inner join tbl_services on tbl_devices.id = tbl_services.sys_device_id where tbl_devices.id in (select sys_device_id from tbl_services where is_mdvr = 1);";
-            string query = $"select tbl_devices.imei,tbl_devices.sys_user_id from tbl_devices inner join tbl_services on tbl_devices.id = tbl_services.sys_device_id where tbl_devices.id in (99616);";
+            string query = $"select tbl_devices.imei,tbl_devices.sys_user_id from tbl_devices inner join tbl_services on tbl_devices.id = tbl_services.sys_device_id where tbl_devices.id in (select sys_device_id from tbl_services where is_mdvr = 1);";
+            //string query = $"select tbl_devices.imei,tbl_devices.sys_user_id from tbl_devices inner join tbl_services on tbl_devices.id = tbl_services.sys_device_id where tbl_devices.id in (99616);";
             //Console.WriteLine(query);
             dt = SelectQuery(query);
             foreach (DataRow dr in dt.Rows)
